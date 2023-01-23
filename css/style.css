@@ -26,6 +26,10 @@ body {
     color: #77ffc0;
 }
 
+.left-login-image {
+    width: 35vw;
+}
+
 .right-login {
     width: 50vh;
     height: 100vh;
