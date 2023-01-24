@@ -4,4 +4,4 @@
 #
 
 # :dart: Page login made with HTML and CSS
-- See the live server of my others projects who are inside "No_Framework", [Discord login](discord-login-gamma.vercel.app/) [Guess Number](guess-number-gold.vercel.app/), [Cover_Letter](presentation-letter-xi.vercel.app), or if you want to know more about me as a professional, see my [portfolio in english](portfolio-en-six.vercel.app) or my [portfolio in portuguese](portfolio-joapedu.vercel.app).
+- See the live server of my others projects who are inside "No_Framework", [Discord login](https://discord-login-gamma.vercel.app/), [Guess Number](https://guess-number-gold.vercel.app/), [Cover_Letter](https://presentation-letter-xi.vercel.app), or if you want to know more about me as a professional, see my [portfolio in english](https://portfolio-en-six.vercel.app) or my [portfolio in portuguese](https://joao-eduardo-portfolio.vercel.app/).
