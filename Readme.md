@@ -6,7 +6,7 @@
 # :dart: Page login made with HTML and CSS
 - See the **_live server_** of my others projects who are inside _"No_Framework"_:
     - [Login Page](https://my-login-page.vercel.app/)
-    - [Landing Page]()
+    - [Landing Page](https://landing-page-joapedu.vercel.app/)
     - [Discord login](https://discord-login-gamma.vercel.app/)
     - [Guess Number](https://guess-number-gold.vercel.app/)
     - [Cover_Letter](https://presentation-letter-xi.vercel.app)
